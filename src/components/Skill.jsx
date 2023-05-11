@@ -26,31 +26,31 @@ const Skill = () => {
           </div>
           <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
             <img className="w-20 mx-auto py-4" src={CSS} alt="CSS icon" />
-            <p className="my-4">HTML</p>
+            <p className="my-4">CSS</p>
           </div>
           <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
             <img className="w-20 mx-auto py-4" src={JavaScript} alt="Javascript icon" />
-            <p className="my-4">HTML</p>
+            <p className="my-4">Javascript</p>
           </div>
           <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
             <img className="w-20 mx-auto py-4" src={ReactImg} alt="React icon" />
-            <p className="my-4">HTML</p>
+            <p className="my-4">React JS</p>
           </div>
           <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
             <img className="w-20 mx-auto py-4" src={Node} alt="Node icon" />
-            <p className="my-4">HTML</p>
+            <p className="my-4">Node JS</p>
           </div>
           <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
             <img className="w-20 mx-auto py-4" src={GitHub} alt="Github icon" />
-            <p className="my-4">HTML</p>
+            <p className="my-4">Github</p>
           </div>
           <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
             <img className="w-20 mx-auto py-4" src={Tailwind} alt="Tailwind icon" />
-            <p className="my-4">HTML</p>
+            <p className="my-4">Tailwind CSS</p>
           </div>
           <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
             <img className="w-20 mx-auto py-4" src={Mongo} alt="Mongo icon" />
-            <p className="my-4">HTML</p>
+            <p className="my-4">Mongo DB</p>
           </div>
         </div>
       </div>
